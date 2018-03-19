@@ -1,2 +1,2 @@
-# deelnemerslijst
-Deelnemerslijst van de intro workshop Git en GitHub
+Deelnemerslijst voor de Git en GitHub workshop:
+* [Willy Tadema](deelnemers/willy-tadema.md)
