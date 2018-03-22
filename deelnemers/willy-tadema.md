@@ -15,3 +15,6 @@ Twitter: https://twitter.com/friesewoudloper
 GitHub: https://github.com/friesewoudloper
     
 [Terug naar de deelnemerslijst](../README.md)
+
+
+aanvulling gemaakt in file Herman
